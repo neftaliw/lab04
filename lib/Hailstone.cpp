@@ -1,5 +1,5 @@
 
-#include "Hailstone.h"
+#include "../include/Hailstone.h"
 
 
 using sequence::satisfiesHailstone;

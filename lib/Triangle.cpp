@@ -2,7 +2,7 @@
 
 #include <math.h>
 #include <assert.h>
-#include "Triangle.h"
+#include "../include/Triangle.h"
 
 
 using shapes::Triangle;

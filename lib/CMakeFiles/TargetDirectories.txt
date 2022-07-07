@@ -1,0 +1,3 @@
+/home/csprofs/neftaliw/lab04/lib/CMakeFiles/rebuild_cache.dir
+/home/csprofs/neftaliw/lab04/lib/CMakeFiles/simpleLibrary.dir
+/home/csprofs/neftaliw/lab04/lib/CMakeFiles/edit_cache.dir

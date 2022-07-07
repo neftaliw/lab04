@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimpleLibrary.a CMakeFiles/simpleLibrary.dir/Triangle.o CMakeFiles/simpleLibrary.dir/Hailstone.o CMakeFiles/simpleLibrary.dir/Awards.o
+/usr/bin/ranlib libsimpleLibrary.a

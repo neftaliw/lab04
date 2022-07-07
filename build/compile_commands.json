@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/csprofs/neftaliw/lab04/build/lib",
+  "command": "/usr/bin/g++  -I/home/csprofs/neftaliw/lab04/include -I/home/csprofs/neftaliw/lab04/test/lib/googletest/include -I/home/csprofs/neftaliw/lab04/test/lib/googlemock/include  -std=c++1y -g -o CMakeFiles/simpleLibrary.dir/Triangle.cpp.o -c /home/csprofs/neftaliw/lab04/lib/Triangle.cpp",
+  "file": "/home/csprofs/neftaliw/lab04/lib/Triangle.cpp"
+},
+{
+  "directory": "/home/csprofs/neftaliw/lab04/build/lib",
+  "command": "/usr/bin/g++  -I/home/csprofs/neftaliw/lab04/include -I/home/csprofs/neftaliw/lab04/test/lib/googletest/include -I/home/csprofs/neftaliw/lab04/test/lib/googlemock/include  -std=c++1y -g -o CMakeFiles/simpleLibrary.dir/Hailstone.cpp.o -c /home/csprofs/neftaliw/lab04/lib/Hailstone.cpp",
+  "file": "/home/csprofs/neftaliw/lab04/lib/Hailstone.cpp"
+},
+{
+  "directory": "/home/csprofs/neftaliw/lab04/build/lib",
+  "command": "/usr/bin/g++  -I/home/csprofs/neftaliw/lab04/include -I/home/csprofs/neftaliw/lab04/test/lib/googletest/include -I/home/csprofs/neftaliw/lab04/test/lib/googlemock/include  -std=c++1y -g -o CMakeFiles/simpleLibrary.dir/Awards.cpp.o -c /home/csprofs/neftaliw/lab04/lib/Awards.cpp",
+  "file": "/home/csprofs/neftaliw/lab04/lib/Awards.cpp"
+},
+{
+  "directory": "/home/csprofs/neftaliw/lab04/build/test",
+  "command": "/usr/bin/g++  -I/home/csprofs/neftaliw/lab04/include -I/home/csprofs/neftaliw/lab04/test/lib/googletest/include -I/home/csprofs/neftaliw/lab04/test/lib/googlemock/include -isystem /home/csprofs/neftaliw/lab04/test/googletest/googlemock/include -isystem /home/csprofs/neftaliw/lab04/test/googletest/googlemock -isystem /home/csprofs/neftaliw/lab04/test/googletest/googletest/include -isystem /home/csprofs/neftaliw/lab04/test/googletest/googletest  -std=c++1y -g -o CMakeFiles/runAllTests.dir/test.cpp.o -c /home/csprofs/neftaliw/lab04/test/test.cpp",
+  "file": "/home/csprofs/neftaliw/lab04/test/test.cpp"
+},
+{
+  "directory": "/home/csprofs/neftaliw/lab04/build/test/googletest/googlemock",
+  "command": "/usr/bin/g++  -I/home/csprofs/neftaliw/lab04/include -I/home/csprofs/neftaliw/lab04/test/lib/googletest/include -I/home/csprofs/neftaliw/lab04/test/lib/googlemock/include -I/home/csprofs/neftaliw/lab04/test/googletest/googlemock/include -I/home/csprofs/neftaliw/lab04/test/googletest/googlemock -isystem /home/csprofs/neftaliw/lab04/test/googletest/googletest/include -isystem /home/csprofs/neftaliw/lab04/test/googletest/googletest  -std=c++1y -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/csprofs/neftaliw/lab04/test/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/csprofs/neftaliw/lab04/test/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/csprofs/neftaliw/lab04/build/test/googletest/googlemock",
+  "command": "/usr/bin/g++  -I/home/csprofs/neftaliw/lab04/include -I/home/csprofs/neftaliw/lab04/test/lib/googletest/include -I/home/csprofs/neftaliw/lab04/test/lib/googlemock/include -isystem /home/csprofs/neftaliw/lab04/test/googletest/googlemock/include -isystem /home/csprofs/neftaliw/lab04/test/googletest/googlemock -isystem /home/csprofs/neftaliw/lab04/test/googletest/googletest/include -isystem /home/csprofs/neftaliw/lab04/test/googletest/googletest  -std=c++1y -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/csprofs/neftaliw/lab04/test/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/csprofs/neftaliw/lab04/test/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/csprofs/neftaliw/lab04/build/test/googletest/googletest",
+  "command": "/usr/bin/g++  -I/home/csprofs/neftaliw/lab04/include -I/home/csprofs/neftaliw/lab04/test/lib/googletest/include -I/home/csprofs/neftaliw/lab04/test/lib/googlemock/include -I/home/csprofs/neftaliw/lab04/test/googletest/googletest/include -I/home/csprofs/neftaliw/lab04/test/googletest/googletest  -std=c++1y -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/csprofs/neftaliw/lab04/test/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/csprofs/neftaliw/lab04/test/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/csprofs/neftaliw/lab04/build/test/googletest/googletest",
+  "command": "/usr/bin/g++  -I/home/csprofs/neftaliw/lab04/include -I/home/csprofs/neftaliw/lab04/test/lib/googletest/include -I/home/csprofs/neftaliw/lab04/test/lib/googlemock/include -isystem /home/csprofs/neftaliw/lab04/test/googletest/googletest/include -isystem /home/csprofs/neftaliw/lab04/test/googletest/googletest  -std=c++1y -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/csprofs/neftaliw/lab04/test/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/csprofs/neftaliw/lab04/test/googletest/googletest/src/gtest_main.cc"
+}
+]

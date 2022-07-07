@@ -1,10 +1,12 @@
-add_subdirectory(lib/googlemock)
+cmake_minimum_required(VERSION 3.20)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${PROJECT_BINARY_DIR}/bin")
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY "${PROJECT_BINARY_DIR}/lib")
+add_subdirectory(googletest)
 enable_testing()
 
 add_executable(runAllTests
-  # Add all new test files to the list here.
-  # Place each file name on a separate line.
-  Dummy.cpp # This file is a placeholder and tests nothing.
+
+  test.cpp 
 )
 
 target_link_libraries(runAllTests gmock gtest gtest_main)
